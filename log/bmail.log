@@ -1,0 +1,15 @@
+[2025-09:50:59.444][INFO ][com.voltriver.demo.VoltriverDemoApplicationTests.logStarting:line50] [thread: main] [time: 09:50:59] - Starting VoltriverDemoApplicationTests using Java 17.0.6 with PID 5724 (started by Administrator in C:\DEV\sts4_workspace\VoltriverDemo)
+[2025-09:50:59.451][INFO ][com.voltriver.demo.VoltriverDemoApplicationTests.logStartupProfileInfo:line654] [thread: main] [time: 09:50:59] - No active profile set, falling back to 1 default profile: "default"
+[2025-09:51:00.854][INFO ][com.voltriver.demo.VoltriverDemoApplicationTests.logStarted:line56] [thread: main] [time: 09:51:00] - Started VoltriverDemoApplicationTests in 1.762 seconds (process running for 2.949)
+[2025-09:54:38.144][INFO ][com.voltriver.demo.VoltriverDemoApplication.logStarting:line50] [thread: main] [time: 09:54:38] - Starting VoltriverDemoApplication using Java 17.0.6 with PID 15588 (C:\DEV\sts4_workspace\VoltriverDemo\target\classes started by Administrator in C:\DEV\sts4_workspace\VoltriverDemo)
+[2025-09:54:38.147][INFO ][com.voltriver.demo.VoltriverDemoApplication.logStartupProfileInfo:line654] [thread: main] [time: 09:54:38] - No active profile set, falling back to 1 default profile: "default"
+[2025-09:54:39.227][INFO ][org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize:line111] [thread: main] [time: 09:54:39] - Tomcat initialized with port 8080 (http)
+[2025-09:54:39.242][INFO ][org.apache.catalina.core.StandardService.log:line173] [thread: main] [time: 09:54:39] - Starting service [Tomcat]
+[2025-09:54:39.243][INFO ][org.apache.catalina.core.StandardEngine.log:line173] [thread: main] [time: 09:54:39] - Starting Servlet engine: [Apache Tomcat/10.1.30]
+[2025-09:54:39.322][INFO ][org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:line173] [thread: main] [time: 09:54:39] - Initializing Spring embedded WebApplicationContext
+[2025-09:54:39.323][INFO ][org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.prepareWebApplicationContext:line296] [thread: main] [time: 09:54:39] - Root WebApplicationContext: initialization completed in 1125 ms
+[2025-09:54:39.640][INFO ][org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start:line243] [thread: main] [time: 09:54:39] - Tomcat started on port 8080 (http) with context path '/'
+[2025-09:54:39.649][INFO ][com.voltriver.demo.VoltriverDemoApplication.logStarted:line56] [thread: main] [time: 09:54:39] - Started VoltriverDemoApplication in 1.917 seconds (process running for 2.256)
+[2025-09:55:05.510][INFO ][org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:line173] [thread: http-nio-8080-exec-1] [time: 09:55:05] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2025-09:55:05.511][INFO ][org.springframework.web.servlet.DispatcherServlet.initServletBean:line532] [thread: http-nio-8080-exec-1] [time: 09:55:05] - Initializing Servlet 'dispatcherServlet'
+[2025-09:55:05.513][INFO ][org.springframework.web.servlet.DispatcherServlet.initServletBean:line554] [thread: http-nio-8080-exec-1] [time: 09:55:05] - Completed initialization in 1 ms
