@@ -13,7 +13,10 @@ public class VoltriverDemoApplication {
 	public static void main(String[] args) {
 		SpringApplication applicatiton = new SpringApplication(VoltriverDemoApplication.class);
 		//applicatiton.setWebApplicationType(WebApplicationType.NONE);
-		applicatiton.run(args);		
+		applicatiton.run(args);
+		
+		
+		
 	}
 
 }
