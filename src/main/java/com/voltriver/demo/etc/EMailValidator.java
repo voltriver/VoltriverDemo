@@ -21,7 +21,7 @@ import org.springframework.stereotype.Component;
 import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
-@Component
+//@Component
 public class EMailValidator {
     /**
      * SMTP 서버의 메시지 스트림에서 PREFIX (결과값) 내용을 읽어온다.

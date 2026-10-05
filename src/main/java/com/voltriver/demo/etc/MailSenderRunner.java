@@ -1,5 +1,6 @@
 package com.voltriver.demo.etc;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.ApplicationArguments;
 import org.springframework.boot.ApplicationRunner;
@@ -16,6 +17,7 @@ import lombok.extern.slf4j.Slf4j;
 @RequiredArgsConstructor
 public class MailSenderRunner implements ApplicationRunner {
 
+	@Autowired
     private final JavaMailSender mailSender;
 
     @Value("${spring.mail.username}")
